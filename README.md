@@ -25,6 +25,7 @@
 - Frontend Mentor's version<br>
 <img src="./design/desktop-design.jpg" alt="desk-top design of challenge"><br>
 <br>
+
 - Sunny's Version<br>
 <img src="./assets/images/Sunnys-version.png" alt="desk-top design of challenge">
 
