@@ -18,9 +18,21 @@
 
 ### The Challenge
 
+- This is my solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
 ### Visuals
 
+- Frontend Mentor's version<br>
+<img src="./design/desktop-design.jpg" alt="desk-top design of challenge"><br>
+<br>
+- Sunny's Version<br>
+<img src="./assets/images/Sunnys-version.png" alt="desk-top design of challenge">
+
 ### Links
+
+- Frontend Mentor [Four Card Feature Section Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)<br>
+- Github Repo [Frontend Mentor 4-Card-Feature-Section](https://github.com/0-Sunny-0/Frontend-Mentor-4-Card-Feature-Section)
+- Github Deployed Site [https://0-sunny-0.github.io/Frontend-Mentor-4-Card-Feature-Section/](https://0-sunny-0.github.io/Frontend-Mentor-4-Card-Feature-Section/)
 
 ## My Process
 
@@ -34,7 +46,12 @@
 
 ### What I Learned
 
+- Learned more about Flexbox and how to properly use it when styling/forming a webpage.
+- Was able to understand media quieries a little more and how they shape your responsive layout.
+
 ### Continued Development
+
+- Add the images for each card. 
 
 ### Useful Resources
 
@@ -48,6 +65,9 @@
 - Frontend Mentor - [@0-Sunny-0](https://www.frontendmentor.io/profile/0-Sunny-0)
 
 ## Acknowledgements
+
+Frontend Mentor<br>
+- [Four Card Feature Section Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
 Kevin Powell<br>
 - [Responsive Layout Practice](https://www.youtube.com/watch?v=JFbxl_VmIx0)
